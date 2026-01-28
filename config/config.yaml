@@ -63,8 +63,14 @@ platforms:
       name: "虫部落"
     - id: "tencent-hot"
       name: "腾讯新闻 综合早报"
-
-
+    - id: "douban"
+      name: "豆瓣"
+    - id: "smzdm"
+      name: "什么值得买"
+    - id: "hupu"
+      name: "虎扑"
+    - id: "kaopu"
+      name: "靠谱新闻"
 
 # ===============================================================
 # 3. 数据源 - RSS 订阅
